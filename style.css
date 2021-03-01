@@ -1,0 +1,13 @@
+.container {
+    position: relative;
+    box-sizing: border-box;
+    width: 90%;
+    min-width: 320px;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+.button{
+    width: 100px;
+    height: 50px;
+}
